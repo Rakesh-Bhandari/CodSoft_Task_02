@@ -11,3 +11,5 @@ This is a basic calculator script developed as part of **Internship Task 2 @CodS
 ---
 
 Feel free to modify the code and README to suit your specific needs and preferences!
+
+#CodSoft
